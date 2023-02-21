@@ -1,0 +1,26 @@
+/*color y fondo de el titulo */
+h1{
+    color:white;
+    background-color: #0A1272;
+}
+/*colores y tipografia*/
+form{
+    color: #2174d4;
+    font-family: "Helvetica";
+   
+}
+/*caracteristicas del cuerpo*/
+body{
+    /*defino el color del fondo de la pagina */
+    background: #f4f2f2;
+}
+
+
+/*caracteristicas del boton */
+button{
+    background:#131c46;
+    color: white;
+    height: 60px;
+    width: 120px;
+
+}
