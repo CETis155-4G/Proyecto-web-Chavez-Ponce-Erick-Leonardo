@@ -1,7 +1,8 @@
 /*color y fondo de el titulo */
 h1{
     color:white;
-    background-color: #0A1272;
+    background-color:rgb(141, 0, 0); 
+    margin-top: 0%;
 }
 /*colores y tipografia*/
 form{
@@ -18,20 +19,27 @@ body{
 
 /*caracteristicas del boton */
 button{
-    background:#0A1272;
+    /*color del fondo de el boton */
+    background:rgb(143, 12, 12);
     color: white;
     height: 50px;
     width: 300px;
     font-family: "Helvetica";
+    /*sirve para circular el boton*/
     border-radius: 20px;
     position: relative;
     top: 10px;
-
+    /*sirve para quitar el borde del boton */
+    border: none;
 }
+/*caracteristicas que afcta a los parrafos*/
 p{
+    /*centrar el texto*/
     text-align: center;
 }
+/*caracteristicas que afectan a los h3*/
 h3{
-    color: #2174d4;
+    color:rgb(21, 16, 125);
+    /*tipo de tipogragia*/
     font-family: "Helvetica";
 }

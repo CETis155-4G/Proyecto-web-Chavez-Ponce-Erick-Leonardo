@@ -1,0 +1,83 @@
+/*caracteristicas que afcta a los titulos del index*/
+h1{
+    /*centra el texto*/
+    text-align: center;
+    /*color del titulo*/
+    color:rgb(142, 14, 14);
+    /*fondo del titulo*/
+    /*background-color:rgb(142, 14, 14); 
+    /*maergen y relleno en el 0%*/
+    margin: 10px 0px;
+    
+}
+body{
+    background: #f4f2f2;
+}
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    
+}
+aside{
+    background: rgb(142, 14, 14);
+    color:white;
+    margin: 10px;
+    padding: 15px;
+    min-width: 20%;
+    margin: 20px 20px 20px 20;
+    height: 90%;
+    border-radius: 10px;
+
+}
+aside .menu a {
+    color: #f4f2f2;
+    margin-bottom: 5px;
+    
+}
+img{
+    width: 500px;
+    height: 450px;
+    display: flex;
+    justify-content:right;
+ 
+ 
+}
+h5,h4,h2{
+    text-align: justify;
+    font-family: "Helvetica";
+}
+.imagen{
+    width: 400px;
+    height: 300px;
+    margin: -188px 0px 0px 800px;
+}
+hr{
+    margin: 40px 20px 50px 0px;
+}
+h2,h4{
+   color: rgb(142, 14, 14);
+}
+.JuMEX{
+    width: 200px;
+    height: 150px;
+    margin: -100px 0px 0px 800px;
+}
+.DValle{
+    width: 200px;
+    height: 150px;
+    margin: -100px 0px 0px 800px;
+
+}
+.Fuzetea{
+    margin: 60px 0px 0px 800px;
+}
+.Arbolito{
+    margin: 60px 0px 0px 800px;
+}
+.Santaclara{
+    margin: 60px 0px 0px 800px;    
+}
+.aguaciel{
+    margin: 129px 0px 0px 800px;     
+}
